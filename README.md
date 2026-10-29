@@ -1,14 +1,8 @@
-# GitHub-CO3-Practic
-
-Practice repository for fork and pull request workflow
+\## Experiment 10
 
 
 
-\## Contribution
-
-
-
-This project demonstrates Git branching, commits, pull requests, and merging.
+This is the MAIN branch version of the conflict line.
 
 &#x20;## Experiment 10
 
